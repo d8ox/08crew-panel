@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small custom tweaks */
+html,body,#root { height: 100%; }
+body { background: linear-gradient(180deg, #0b1020 0%, #0f1724 100%); }
